@@ -5,10 +5,13 @@ import ntpath
 from PIL import Image
 
 def bg_remove(input_path, output_path):
+    print(input_path)
+    print(output_path)
     with open(input_path, 'rb') as i:
         with open(output_path, 'wb') as o:
             input = i.read()
             output = remove(input)
+            print(output)
             o.write(output)
             # compress_png(input_path=output_path, output_path="test.png", quality=50)
     return output_path
