@@ -60,8 +60,6 @@ async def remove_bg_from_url(imageData : dict = Body(...)):
 
     autorize = False
 
-    print(user_info)
-
     if len(user_info) == 1:
         user = user_info[0]
         autorize = canRemoveBg(user, count_url)
@@ -74,10 +72,13 @@ async def remove_bg_from_url(imageData : dict = Body(...)):
             filepath = "uploads/inputs/images/remove_bg/" + ct + ".png"
             convert_url_to_file(url=url, file_path=filepath)
             output_path = "uploads/outputs/images/remove_bg/" + ct + "_bg_remover.png"
+            print("avant")
             resp = bg_remove(filepath, output_path)
+            print("après")
             output_path_base64 = file_to_base64(output_path)
             delete_file(filepath)
             delete_file(output_path)
+            print("suppression")
             user["nb_images"] = user["nb_images"] + count_url
             await update_user(email, user)
             return {"status": "success", "output_file_name": ct + "_bg_remover.png", "output_file_base_64" : output_path_base64, "plan" : user["plan"], "nb_images" : user["nb_images"], "nb_images_total" :  user["nb_images_total"] }
