@@ -1,0 +1,26 @@
+Estimado(a) [Nombre del reclutador/a],
+
+Espero que este mensaje lo encuentre bien. Me complace presentarle mi solicitud para el puesto de Data Scientist Expert en Enedis. He revisado detenidamente los requisitos del puesto y estoy convencido(a) de que mi experiencia y habilidades técnicas se ajustan perfectamente a lo que están buscando.
+
+Permítame resaltar algunos aspectos clave de mi experiencia profesional que respaldan mi idoneidad para este puesto:
+
+- Durante mi pasantía en LESMILSAVEURS, tuve la oportunidad de implementar una base de datos SQL, gestionar pagos utilizando APIs como Paypal y Stripe, realizar consultas de acceso a la base de datos, construir una API REST para acceder a la información y desplegar la aplicación en Play Store y App Store. Estas habilidades me han permitido desarrollar un sólido conocimiento en el manejo de datos y en el desarrollo de aplicaciones móviles.
+
+- Además, en mi trabajo como profesor de apoyo en la Universidad Sorbonne Paris Nord - Instituto Galilée, he impartido clases de informática y matemáticas a estudiantes, lo que ha fortalecido mis habilidades de comunicación y capacidad para transmitir conceptos técnicos de manera clara y comprensible.
+
+- En mis proyectos académicos y personales, he trabajado en el campo de la visión por computadora, desarrollando soluciones como la detección de manos y el control del volumen del PC mediante gestos. También he participado en la creación de una aplicación móvil de comercio electrónico llamada NGAM Express, donde he utilizado tecnologías como IONIC, Firebase, Flutter, NodeJS, Express y MongoDB. Estas experiencias me han permitido expandir mis habilidades en el desarrollo de aplicaciones y en el manejo de bases de datos.
+
+Además de mi experiencia laboral y académica, cuento con un conjunto completo de habilidades técnicas, incluidos lenguajes de programación como HTML, CSS, PHP, JS, Python y Java, así como frameworks como Symfony y Angular. También tengo experiencia en bibliotecas como Numpy, Pandas, Sklearn y OpenCV, y en bases de datos como MySQL, PostgreSQL y Firebase.
+
+Más allá de mis habilidades técnicas, soy una persona curiosa, autónoma, rigurosa y con un excelente espíritu de equipo. También tengo experiencia en la implementación de métodos ágiles como SCRUM y XP, así como en el diseño de bases de datos relacionales.
+
+Aparte de mi perfil técnico, soy un hablante intermedio de inglés y tengo un gran interés por la inteligencia artificial, el fútbol y los videojuegos.
+
+Le adjunto mi currículum vitae para obtener más información sobre mi experiencia profesional y educativa.
+
+Estoy extremadamente entusiasmado(a) con la oportunidad de unirme a Enedis y contribuir al desarrollo de soluciones basadas en datos y IA. Creo que mi experiencia y pasión por la tecnología serían una valiosa incorporación a su equipo.
+
+Agradezco sinceramente su consideración y espero tener la oportunidad de discutir cómo puedo contribuir al éxito de Enedis en el puesto de Data Scientist Expert.
+
+Atentamente,
+[Nombre completo]
