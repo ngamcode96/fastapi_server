@@ -10,7 +10,7 @@ def bg_remove(input_path, output_path):
             input = i.read()
             output = remove(input)
             o.write(output)
-            compress_png(input_path=output_path, output_path="test.png", quality=50)
+            # compress_png(input_path=output_path, output_path="test.png", quality=50)
     return output_path
 
 

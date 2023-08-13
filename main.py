@@ -8,7 +8,7 @@ app = FastAPI()
 # Configure CORS
 origins = [
     "http://localhost",
-    "http://16.170.246.12"
+    "http://16.170.246.12",
     "http://localhost:3000",
     "https://discord.com",
     "chrome-extension://jmfmagommddgbnmfpgnemdcmpekcjiic"
